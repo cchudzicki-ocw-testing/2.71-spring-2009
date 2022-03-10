@@ -9,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Slides ([PDF](resources/mit2_71s09_lec18))
+related_resources_text: 'Slides ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec18))
 
 
-  Supplement ([PDF](resources/mit2_71s09_supp18))'
+  Supplement ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_supp18))'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Spatial filtering; lens transfer functions & transforms'

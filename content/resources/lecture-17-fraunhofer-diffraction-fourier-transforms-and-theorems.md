@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([PDF - 1.9MB](resources/mit2_71s09_lec17))
+related_resources_text: Slides ([PDF - 1.9MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec17))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: Fraunhofer diffraction; Fourier transforms and theorems'

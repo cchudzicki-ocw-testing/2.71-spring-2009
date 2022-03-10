@@ -10,7 +10,7 @@ optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: Slides (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF - 1.8MB](resources/mit2_71s09_lec09))
+  reader.](/images/inacessible.gif)[PDF - 1.8MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec09))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: More aberrations; optical design; GRadient INdex (GRIN)'

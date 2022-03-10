@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Slides ([PDF - 1.7MB](resources/mit2_71s09_lec05))
+related_resources_text: 'Slides ([PDF - 1.7MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec05))
 
 
   Supplement ([PDF](/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/lecture-5-thick-lenses-the-composite-lens-the-eye/MIT2_71S09_supp05.pdf))'

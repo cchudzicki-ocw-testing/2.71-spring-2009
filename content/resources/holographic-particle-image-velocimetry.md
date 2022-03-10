@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
 parent_type: CourseSection
-related_resources_text: "\_Slides ([PDF - 3.1MB](resources/mit2_71s09_sw05))"
+related_resources_text: "\_Slides ([PDF - 3.1MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_sw05))"
 resource_index_text: ''
 resourcetype: Video
 title: Holographic Particle Image Velocimetry

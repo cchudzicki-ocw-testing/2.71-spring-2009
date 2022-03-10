@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([PDF - 1.2MB](resources/mit2_71s09_lec07))
+related_resources_text: Slides ([PDF - 1.2MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec07))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Basics of mirrors, magnifiers, and microscopes'

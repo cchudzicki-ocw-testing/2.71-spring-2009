@@ -9,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Slides ([PDF - 1.1MB](resources/mit2_71s09_lec23))
+related_resources_text: 'Slides ([PDF - 1.1MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec23))
 
 
-  Supplement ([PDF](resources/mit2_71s09_supp23))'
+  Supplement ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_supp23))'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Imaging with a single lens'

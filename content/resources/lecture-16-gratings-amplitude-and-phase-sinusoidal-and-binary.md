@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides ([PDF](resources/mit2_71s09_lec16))
+related_resources_text: Slides ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec16))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Gratings: amplitude and phase, sinusoidal and binary'

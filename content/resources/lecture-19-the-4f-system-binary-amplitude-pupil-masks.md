@@ -9,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Slides ([PDF - 2.1MB](resources/mit2_71s09_lec19))
+related_resources_text: 'Slides ([PDF - 2.1MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec19))
 
 
-  Supplement ([PDF](resources/mit2_71s09_supp19))'
+  Supplement ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_supp19))'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: The 4F system; binary amplitude & pupil masks'

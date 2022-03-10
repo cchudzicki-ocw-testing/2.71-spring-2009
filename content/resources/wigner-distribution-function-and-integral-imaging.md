@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
 parent_type: CourseSection
-related_resources_text: Slides ([PDF](resources/mit2_71s09_sw02))
+related_resources_text: Slides ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_sw02))
 resource_index_text: ''
 resourcetype: Video
 title: Wigner Distribution Function and Integral Imaging
