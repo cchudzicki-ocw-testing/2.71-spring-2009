@@ -1,18 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF - 1.3MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec08))
+related_resources_text: Slides ([PDF - 1.3MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec08))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Telescopes; aberrations: chromatic, spherical, and coma'
 uid: f4e83447-53e1-37a3-c5c1-a4165d5c298c
 video_files:
@@ -27,3 +29,4 @@ video_metadata:
 **Topics**: Basic optical systems (cont.): telescope; chromatic aberration; geometrical aberrations: spherical, coma.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

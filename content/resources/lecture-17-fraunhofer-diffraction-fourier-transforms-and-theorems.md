@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 1.9MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec17))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Fraunhofer diffraction; Fourier transforms and theorems'
 uid: e805cb68-ebc8-0a37-37d1-4f63a4cb0ec8
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics**: Fraunhofer diffraction; review of Fourier transforms and theorems.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

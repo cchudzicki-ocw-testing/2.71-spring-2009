@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec06))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Terms: apertures, stops, pupils, and windows; single-lens camera'
 uid: d16b0924-1d76-face-e4ed-589d89738057
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics**: Aperture stop; entrance and exit pupils; numerical aperture (NA); field stop; entrance and exit windows; field of view (FoV).
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

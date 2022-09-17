@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-71-optics-spring-2009/2af3a546ff2928bb2d740f553a11ce14_jKHejk45Sg.srt
+file: /media/courses/2-71-optics-spring-2009/2af3a546ff2928bb2d740f553a11ce14_jKHejk45Sg.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

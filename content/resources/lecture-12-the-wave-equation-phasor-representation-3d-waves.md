@@ -1,18 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF - 2.0MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec12))
+related_resources_text: Slides ([PDF - 2.0MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec12))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: The wave equation; phasor representation; 3D waves'
 uid: ae1fc7f4-799f-5ec8-99d3-d8f613777f1f
 video_files:
@@ -27,3 +29,4 @@ video_metadata:
 **Topics**: 1D wave equation; complex (phasor) representation; 3D waves: plane, spherical.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

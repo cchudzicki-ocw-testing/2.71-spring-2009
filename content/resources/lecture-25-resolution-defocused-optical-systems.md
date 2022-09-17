@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 1.2MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec25))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Resolution; defocused optical systems'
 uid: f8522787-b357-1bc3-7456-c912a0e7ecd8
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics**: Resolution (cont.); defocused optical systems.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

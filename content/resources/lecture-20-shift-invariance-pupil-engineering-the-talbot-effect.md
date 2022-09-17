@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 3.1MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec20))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Shift invariance; pupil engineering; the Talbot effect'
 uid: feab51a6-bd8d-63fb-761a-cfcd53550881
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics**: Shift invariance; Amplitude Transfer Function (ATF); lateral and angular magnification in the 4F system; relationship between NA, PSF, and ATF; sampling and the Space Bandwidth Product (SBP); advanced spatial filtering: pupil engineering, phase contrast imaging; Talbot effect.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

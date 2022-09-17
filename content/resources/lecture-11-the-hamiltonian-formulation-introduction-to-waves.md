@@ -1,18 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF - 3.3MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec11))
+related_resources_text: Slides ([PDF - 3.3MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec11))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: The Hamiltonian formulation; introduction to waves'
 uid: b2965a76-2511-7b25-faeb-e21d6cb87b5f
 video_files:
@@ -27,3 +29,4 @@ video_metadata:
 **Topics**: Hamiltonian formulation of ray tracing; analogies between Hamiltonian optics and Hamiltonian mechanics; introduction to waves.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

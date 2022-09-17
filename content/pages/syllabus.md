@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  collaboration, late policy, homework and quiz exemptions, the final exam, grading
+  policies, required texts, and recommended texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

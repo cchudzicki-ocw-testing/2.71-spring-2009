@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 2.3MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec15))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Huygens principle; interferometers; Fresnel diffraction'
 uid: 80249be6-b3ec-74d6-99f1-5fee456fd566
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics**: Interference; Michelson and Mach-Zehnder interferometers; Huygens principle; Young interferometer; Fresnel diffraction.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

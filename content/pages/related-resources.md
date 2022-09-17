@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains animations that illustrate diffraction in various
+  scenarios.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

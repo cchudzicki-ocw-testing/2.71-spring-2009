@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: Slides ([PDF - 2.0MB](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec01))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Course organization; introduction to optics'
 uid: 48549340-7a7e-1d1a-1b64-b64364118664
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Topics**: Introduction; brief history of optics; absorption, refraction; laws of reflection and refraction.
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

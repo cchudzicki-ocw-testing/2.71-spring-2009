@@ -1,18 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Slides (![This resource may not render correctly in a screen
-  reader.](/images/inacessible.gif)[PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec14))
+related_resources_text: Slides ([PDF](/courses/2-71-optics-spring-2009/resources/mit2_71s09_lec14))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Maxwell''s equations; polarization; Poynting''s vector'
 uid: 20cdbf6e-ba0a-4ff0-d4ed-b8533f2c74d2
 video_files:
@@ -27,3 +29,4 @@ video_metadata:
 **Topics**: Maxwell's equations (cont.); polarization justification of the refractive index; electromagnetic energy flux and Poynting's vector; irradiance (intensity).
 
 **Instructors**: George Barbastathis, Colin Sheppard
+

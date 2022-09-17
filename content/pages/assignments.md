@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course along with
+  solutions and supporting files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -178,13 +180,13 @@ Homework 8
 ({{% resource_link a7075a37-3e84-9978-b821-cee6e1aab388 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a916d04a-eb36-4789-9845-a5628cc48fc0 "PDF" %}})
+({{% resource_link a916d04a-eb36-4789-9845-a5628cc48fc0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 96868c3f-9d5f-c313-bdcf-85596b19e86c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ebd430de-0b98-2bbb-371b-6e8df42029c0 "PDF" %}})
+({{% resource_link ebd430de-0b98-2bbb-371b-6e8df42029c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
